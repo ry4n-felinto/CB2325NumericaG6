@@ -39,4 +39,4 @@ Repositório criado para realização do Trabalho de grupo da disciplina de Prog
 - Documentação
 - Documentos de teste e arquivos de demonstração
 - Criação e organização de módulos
-- Formatação do código e comentação de código
+- Formatação e comentários de código
